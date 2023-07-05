@@ -10,5 +10,6 @@ img {
 }
   
 .robot {
-    transform: rotate(45deg) scale(2) translate(100px);
+    transform: rotate(45deg) scale(2) translate(100px, 200px);
+
 }
