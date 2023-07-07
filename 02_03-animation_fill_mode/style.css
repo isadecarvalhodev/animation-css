@@ -6,8 +6,8 @@
 .robot {
     animation-name: move;
     animation-duration: 3s;
-    /* animation-fill-mode: backwards; */
-    /* animation-fill-mode: forwards; */
+    animation-fill-mode: backwards;
+    animation-fill-mode: forwards; 
     animation-fill-mode: both;
 }
    
